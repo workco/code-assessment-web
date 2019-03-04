@@ -2,7 +2,7 @@
 
 This is a copy of the [Redux Shopping Cart Example](https://github.com/reactjs/redux/tree/master/examples/shopping-cart).
 
-To install dependencies:
+To install dependencies, use the package manager [Yarn](https://yarnpkg.com/en/):
 
 ```
 yarn
