@@ -12,7 +12,7 @@ npm start
 
 You're welcome (but not required) to add any libraries you think would be helpful.
 
-Note: You're encouraged to show your work by including multiple commits - we'll be looking through your fork's git history.
+Note: You're encouraged to show your work by including multiple commits - we'll be looking through your git history.
 
 1. [Implement Responsive Design](/tasks/01-responsive-design.md)
 2. [Enhance Cart Functionality](/tasks/02-cart-enhancements.md)
