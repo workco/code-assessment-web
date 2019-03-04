@@ -10,7 +10,7 @@ npm start
 
 ## Tasks
 
-Please publish your work to a fork of this repo. You're welcome (but not required) to add any libraries you think would be helpful.
+You're welcome (but not required) to add any libraries you think would be helpful.
 
 Note: You're encouraged to show your work by including multiple commits - we'll be looking through your fork's git history.
 
