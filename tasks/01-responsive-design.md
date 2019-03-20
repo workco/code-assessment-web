@@ -1,6 +1,6 @@
 # Task 01 - Implement Responsive Design
 
-Download the Sketch file [here](../assets/Design.sketch) (you can get a free trial from [Sketch](https://www.sketchapp.com/) if you don't have it installed already).
+Download the Sketch file [here](../assets/Design.sketch). You can get a free trial from [Sketch](https://www.sketchapp.com/) if you don't have it installed already. Email us if you’re on Windows and can’t use Sketch.
 
 The design has 3 breakpoints and a few button and cart states.
 
